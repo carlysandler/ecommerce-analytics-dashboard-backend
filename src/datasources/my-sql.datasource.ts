@@ -9,7 +9,7 @@ const config = {
   port: 3306,
   user: 'root',
   password: '123690',
-  database: 'ecom_analytics'
+  database: 'ecom_analytics_dashboard'
 };
 
 // Observe application's life cycle to disconnect the datasource when

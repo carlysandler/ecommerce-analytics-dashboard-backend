@@ -7,8 +7,25 @@
     "baseUrl": "./",
     "paths": {
       "*": [
-        "node_modules/*",
+        "node_modules/*"
+      ],
+      "@types/*": [
         "src/types/*"
+      ],
+      "@datasources/*": [
+        "src/datasources/*"
+      ],
+      "@models/*": [
+        "src/models/*"
+      ],
+      "@controllers/*": [
+        "src/controllers/*"
+      ],
+      "@repositories/*": [
+        "src/repositories/*"
+      ],
+      "@services/*": [
+        "src/services/*"
       ]
     },
     "esModuleInterop": true,
