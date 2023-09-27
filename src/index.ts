@@ -1,5 +1,5 @@
-import { EcommerceAnalyticsDashboardBackendApplication } from './application'
-import { ApplicationConfig } from '@loopback/core'
+import {ApplicationConfig} from '@loopback/core';
+import {EcommerceAnalyticsDashboardBackendApplication} from './application';
 
 export * from './application';
 export * from './types';
